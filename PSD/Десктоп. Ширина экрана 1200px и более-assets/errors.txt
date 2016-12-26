@@ -1,0 +1,2 @@
+[2016-12-24 01:21:17] layer "some@mail.com": Unsupported extension: com
+[2016-12-24 01:18:04] layer "Email   emelyan.kazakov@yandex.ru SKYPE emelyan.kazakov  социал": Expected end of input but "\u0441" found.
